@@ -5,4 +5,5 @@
 # TODO
 - [X] Creating (Save, Open, Close file)
 - [ ] Create (Run) for running the JackVesh file
-- [ ] Configuration of theme, font, etc
+- [ ] Configuration of theme, etc
+- [ ] Uploading JackVesh to pypi, so everyone can used it as a package
