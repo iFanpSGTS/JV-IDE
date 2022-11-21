@@ -50,7 +50,7 @@ if len(settings.keys()) == 0:
 sg.change_look_and_feel(settings['theme']) # <- Default theme preview
 
 strings = "Loaded settings:\n\t-> Themes: {}\n\t-> Font: {}\n\t-> Tabs: {}\n\t-> Version: {}"
-settings.update(out = strings.format(settings['theme'], settings['font'], settings['tabsize'], settings['version']))
+settings.update(setting_out = strings.format(settings['theme'], settings['font'], settings['tabsize'], settings['version']))
 
 def close_setting():
     settings.update(filename=None, body='', out='', infos='Untitled')
