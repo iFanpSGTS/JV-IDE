@@ -5,7 +5,7 @@
   - i will make jackvesh as a package later....
 
 # File Explaination
-- In line 10, you can see "from main import run_from_gui", it importing the function in JackVesh Intepretes
+- In line 10, you can see "from main import run_from_gui", it importing the function in JackVesh Intepreter
 - .........Wait.........
 
 # TODO
